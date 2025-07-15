@@ -8,7 +8,7 @@ A simple Python project that performs time and frequency domain analysis on a WA
 
 ## Usage
 1. Place `example.wav` in the project directory.
-2. Run `fft_analyzer.py`.
+2. Run `FFT Analazer.py`.
 3. View time and frequency plots.
 
 ## Requirements
@@ -17,9 +17,7 @@ A simple Python project that performs time and frequency domain analysis on a WA
 - matplotlib
 - soundfile
 
-## Sample Output
-![Time domain](./time_plot.png)
-![Frequency domain](./fft_plot.png)
+
 
 ## Author
 Ohad Rosentswaig
